@@ -14,12 +14,16 @@ Attacker (nmap/hydra) → Suricata IDS → Wazuh SIEM → Wireshark → Investig
 | Hydra | Brute force attack simulation |
 
 ## Lab Structure
-
 01-environment-setup/    # Ubuntu VM configuration
+
 02-tool-deployment/      # Tool installation guides
+
 03-attack-simulation/    # Attack scenarios
+
 04-detection-analysis/   # Alert analysis
+
 05-investigations/       # Incident response case studies
+
 screenshots/             # Evidence and screenshots
 
 ## Key Scenarios
