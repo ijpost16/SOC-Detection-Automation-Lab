@@ -39,4 +39,4 @@ Attacker (nmap/hydra) → Suricata IDS → Wazuh SIEM → Wireshark → Investig
 🚧 Lab in progress — tools deployed, attack simulation phase starting.
 
 ## Author
-[Your Name] — SOC Analyst | Detection Engineering
+Idowu adewale — SOC Analyst | Detection Engineering
