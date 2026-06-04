@@ -1,4 +1,5 @@
 Overview
+
 This lab demonstrates a complete security operations workflow,covering the full lifecycle of cyber threat detection and response:
 
 attack simulation → network detection → SIEM alerting → packet analysis → incident investigation.
