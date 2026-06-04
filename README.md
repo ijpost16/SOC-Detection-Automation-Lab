@@ -23,19 +23,19 @@ Attack Simulation (Nmap / Hydra)
 
 
 ## Lab Structure
-01-environment-setup/    # Ubuntu VM configuration
+01-environment-setup/     Ubuntu VM configuration
 
-02-tool-deployment/      # Tool installation guides
+02-tool-deployment/       Tool installation guides
 
-03-attack-simulation/    # Attack scenarios
+03-attack-simulation/     Attack scenarios
 
-04-detection-analysis/   # Alert analysis (Wazuh + Suricata)
+04-detection-analysis/    Alert analysis (Wazuh + Suricata)
 
-05-investigations/       # Incident response case studies
+05-investigations/        Incident response case studies
 
-06-detection-engineering # Sigma rules and detection logic 
+06-detection-engineering  Sigma rules and detection logic 
 
-screenshots/             # Evidence and screenshots
+screenshots/              Evidence and screenshots
 
  Key Scenarios
 - Brute force SSH detection via Wazuh
